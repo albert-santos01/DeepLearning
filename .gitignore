@@ -3,3 +3,7 @@ svhn/
 svhn_tl/
 
 results/
+
+mnist/
+
+faces/
